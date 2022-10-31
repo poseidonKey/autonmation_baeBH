@@ -1,0 +1,6 @@
+name : Á¶¿¹ÈÄ
+age : 22
+e-mail : ik411pvx@bhban.com
+division : 8lu
+telephone : 010-8222-8782
+sex : female

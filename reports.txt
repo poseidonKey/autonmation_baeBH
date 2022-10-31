@@ -1,0 +1,51 @@
+Header : ['name', 'age', 'e-mail', 'division', 'telephone', 'sex']
+Count : 70
+
+Header : ['name', 'age', '고양이', 'division', 'telephone', 'sex']
+Count : 2
+
+Header : ['name', 'age', 'e-mail', 'division', 'telephone', 'sex', 'telephone']
+Count : 1
+
+Header : ['name', 'age', 'e-mail', 'division', 'sex']
+Count : 1
+
+Header : ['name', 'age', 'e-mail', 'telephone', 'sex']
+Count : 1
+
+Header : ['name', 'age', 'e-mail', 'division', 'telephone', 'sex', 'division']
+Count : 3
+
+Header : ['age', 'e-mail', 'division', 'telephone', 'sex']
+Count : 3
+
+Header : ['name', 'age', 'e-mail', 'division', 'telephone', 'sex', 'sex']
+Count : 2
+
+Header : ['name', 'e-mail', 'division', 'telephone', 'sex']
+Count : 3
+
+Header : ['고양이', 'age', 'e-mail', 'division', 'telephone', 'sex']
+Count : 1
+
+Header : ['name', 'age', 'e-mail', 'division', 'telephone', 'sex', 'e-mail']
+Count : 2
+
+Header : ['name', 'age', 'e-mail', 'division', 'telephone', 'sex', 'age']
+Count : 2
+
+Header : ['name', 'age', 'e-mail', '고양이', 'telephone', 'sex']
+Count : 1
+
+Header : ['name', 'age', 'e-mail', 'division', '고양이', 'sex']
+Count : 3
+
+Header : ['name', 'age', 'e-mail', 'division', 'telephone', '고양이']
+Count : 3
+
+Header : ['name', 'age', 'e-mail', 'division', 'telephone']
+Count : 1
+
+Header : ['name', 'age', 'division', 'telephone', 'sex']
+Count : 1
+
