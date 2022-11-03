@@ -1,5 +1,5 @@
-import datetime
+from datetime import datetime
+import pywinmacro as pw
+import time
 
-print(datetime.datetime.today())
-print(str(datetime.datetime.today().date()))
-print(str(datetime.timedelta(days=2)))
+print(str(datetime.today())[-4:])
